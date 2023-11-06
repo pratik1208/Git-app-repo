@@ -11,3 +11,8 @@ with col1:
     st.image('photo.png')
 with col2:
     st.header('I love quotes')
+
+st.header('Courses')
+st.subheader("DSA")
+st.subheader("DBMS")
+st.subheader("DSMP")
